@@ -1,5 +1,4 @@
 red
 blue
 green
-purple
 calgar blue
